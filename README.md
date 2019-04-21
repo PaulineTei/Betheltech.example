@@ -1,3 +1,3 @@
 # Betheltech.example
 
-This is a betheltech example file.
+This is some new text yo!
